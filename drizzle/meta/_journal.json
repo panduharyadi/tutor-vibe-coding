@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777349107160,
+      "tag": "0000_loud_the_spike",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777349224709,
+      "tag": "0001_omniscient_nuke",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1777349490772,
+      "tag": "0002_lethal_wallow",
+      "breakpoints": true
+    }
+  ]
+}
